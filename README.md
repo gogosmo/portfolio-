@@ -5,9 +5,10 @@
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 ## Éducation
-- Master 2 en Logiciel et Ingénierie des Données | Université Gustave Eiffel - Institut Gaspard Monge (_2021-2023_)
-  - Lieu : Champs-sur-Marne, Région Île-de-France, France
-  - Description : La matière 'Architecture logicielle' englobe un large éventail de compétences, de la conception de la base de données au développement d'applications, en passant par la sécurité. Elle explore les principes fondamentaux de la conception et de la structuration des logiciels, en mettant l'accent sur la création de systèmes logiciels robustes, évolutifs et maintenables. Cette matière couvre également l'utilisation de technologies telles que Java, Hibernate et Spring pour le développement d'applications. Elle inclut une approche basée sur la méthodologie agile, qui favorise la flexibilité, la collaboration et la livraison itérative. Les étudiants et les professionnels qui maîtrisent l'architecture logicielle sont en mesure de concevoir, de développer et de sécuriser des solutions technologiques de haut niveau, en alignement avec les meilleures pratiques de l'industrie.
+- Master 2 en Logiciel et Ingénierie des Données
+  Université Gustave Eiffel - IGM - Paris (_2021-2023_)
+  - Description :
+    La matière 'Architecture logicielle' englobe un large éventail de compétences, de la conception de la base de données au développement d'applications, en passant par la sécurité. Elle explore les principes fondamentaux de la conception et de la structuration des logiciels, en mettant l'accent sur la création de systèmes logiciels robustes, évolutifs et maintenables. Cette matière couvre également l'utilisation de technologies telles que Java, Hibernate et Spring pour le développement d'applications. Elle inclut une approche basée sur la méthodologie agile, qui favorise la flexibilité, la collaboration et la livraison itérative. Les étudiants et les professionnels qui maîtrisent l'architecture logicielle sont en mesure de concevoir, de développer et de sécuriser des solutions technologiques de haut niveau, en alignement avec les meilleures pratiques de l'industrie.
 
 
 ## Work Experience
