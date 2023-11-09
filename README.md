@@ -3,23 +3,38 @@
 #### Technical Skills: Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-## Éducation
-- Master 2 en Logiciel et Ingénierie des Données
-  Université Gustave Eiffel - IGM - Paris (_2021-2023_)
-  - Description :
-    La matière 'Architecture logicielle' englobe un large éventail de compétences, de la conception de la base de données au développement d'applications, en passant par la sécurité. Elle explore les principes fondamentaux de la conception et de la structuration des logiciels, en mettant l'accent sur la création de systèmes logiciels robustes, évolutifs et maintenables. Cette matière couvre également l'utilisation de technologies telles que Java, Hibernate et Spring pour le développement d'applications. Elle inclut une approche basée sur la méthodologie agile, qui favorise la flexibilité, la collaboration et la livraison itérative. Les étudiants et les professionnels qui maîtrisent l'architecture logicielle sont en mesure de concevoir, de développer et de sécuriser des solutions technologiques de haut niveau, en alignement avec les meilleures pratiques de l'industrie.
+- **Master 2 in Software, Data Engineering** | Gustave Eiffel University - Gaspard Monge Institute at Paris (_2021-2023_)
+- **Bachelor's Degree in Mathematics and Computer Science** | Gustave Eiffel University - Gaspard Monge Institute at Paris (_2017-2021_)
 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**IT Project Manager & Software Developer Intern @ McDonald’s France Services (_December 2021 - September 2023_)**
+- Led the implementation of a web-based MVC project tracking and management tool using C# ASP.NET.
+- Oversaw and guided various phases of application development.
+- Designed and developed an architecture focused on project management, tracking, and automation.
+- Defined user journeys, technical specifications, and agile backlog management to effectively address priority needs.
+- Established a project timeline and allocated resources to meet deadlines.
+- Contributed to technical development, including database structuring and the creation of the C# ASP.NET MVC web application.
+- Managed project versions using TFS within a Microsoft Visual Studio environment.
+- Utilized a technology stack including C#, jQgrid, jQuery, ASP.NET, Trello, CSS, and HTML.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analyst Intern @ Iziwork (_June 2021 - September 2021_)**
 
+- Managed ETL (Extract, Transform, Load) processes and performed data analysis within a NoSQL database.
+- Conducted a feasibility study on integrating a variable into a matching formula within a machine learning model.
+- Extracted data from a NoSQL database.
+- Created a Python module to visualize user data on the map of France.
+- Retrieved data from openData regarding GPS coordinates of French regions and associated it with our data.
+- Collected data from APIs such as TravelTime or Google Maps concerning travel times.
+- Visualized accessible geographic areas from point A within a given travel time via the TravelTime API in the form of isochrones.
+- Applied a linear algorithm to a large volume of data to ensure performance.
+- Analyzed and assessed the feasibility of applying this algorithm to a large data volume.
+- Conducted a financial evaluation of this module in terms of API usage and cost per query.
+- Documented this module using MkDocs.
+- Presented this study to discuss with the data team the impact of integrating this variable into the machine learning model formula.
+
+**Technical Environment**: DOCKER, PYTHON, MONGODB, JUPYTER NOTEBOOK, VISUAL STUDIO CODE, TRAVELTIME API, GOOGLE API, GITHUB, JIRA
+<!--
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -35,7 +50,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+# Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
@@ -43,17 +58,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
+-->
