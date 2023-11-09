@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel
 
 ## Education
-- **Master 2 in Software, Data Engineering** | Gustave Eiffel University - Gaspard Monge Institute at Paris (_2021-2023_)
-- **Bachelor's Degree in Mathematics and Computer Science** | Gustave Eiffel University - Gaspard Monge Institute at Paris (_2017-2021_)
+- **Master 2 in Software, Data Engineering**  Gustave Eiffel University - Gaspard Monge Institute at Paris (_2021-2023_)
+- **Bachelor's Degree in Mathematics and Computer Science**  Gustave Eiffel University - Gaspard Monge Institute at Paris (_2017-2021_)
 
 
 ## Work Experience
