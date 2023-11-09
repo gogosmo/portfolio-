@@ -34,14 +34,17 @@
 - Presented this study to discuss with the data team the impact of integrating this variable into the machine learning model formula.
 
 **Technical Environment**: DOCKER, PYTHON, MONGODB, JUPYTER NOTEBOOK, VISUAL STUDIO CODE, TRAVELTIME API, GOOGLE API, GITHUB, JIRA
-<!--
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ETL Project @ Université Gustave Eiffel Paris 2023
+[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4475201351668581/4017966511050725/7429548704676706/latest.html))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Conducted an in-depth study of data related to medications available on the French market.
+- Managed and processed data, including preparation and integration, to ensure their consistency and relevance for analysis (using Databricks).
+- Trained machine learning algorithms on this data, followed by a detailed visualization of the obtained results.
+![Bike Study](/assets/img/bike_study.jpeg)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](image.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
