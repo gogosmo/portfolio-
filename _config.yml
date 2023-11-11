@@ -1,12 +1,6 @@
 title: Jughurta GAHLOUZ
 logo: /assets/img/image_pro-modified.png
-description: Text below the image
+description: In the age of big data, we sail the endless ocean of information where every drop can set off a wave of progress and innovation.
 show_downloads: false
 theme: jekyll-theme-minimal
 
-
-header_background_color: "#F0F0F0"  # Couleur d'arrière-plan de l'en-tête
-text_color: "#333333"              # Couleur du texte principal
-link_color: "#007BFF"              # Couleur des liens
-footer_background_color: "#222222"  # Couleur d'arrière-plan du pied de page
-footer_text_color: "#FFFFFF"       # Couleur du texte du pied de page
