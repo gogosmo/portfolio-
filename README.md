@@ -36,7 +36,7 @@
 **Technical Environment**: DOCKER, PYTHON, MONGODB, JUPYTER NOTEBOOK, VISUAL STUDIO CODE, TRAVELTIME API, GOOGLE API, GITHUB, JIRA
 
 ## Projects
-### ETL Project @ Université Gustave Eiffel Paris 2023
+### ETL Project @ Gustave Eiffel University Paris 2023
 [Link to the databricks notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4475201351668581/4017966511050725/7429548704676706/latest.html)
 
 - Conducted an in-depth study of data related to medications available on the French market.
@@ -45,13 +45,21 @@
 
 
 ![Notebook](image.png)
+### Creation of a Comprehensive Recap Training in Python, SQL, and Java
+[**Python**](https://github.com/Gogo-IGM-BK/Python-Data) | [**SQL**](https://github.com/Gogo-IGM-BK/SQL)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Throughout my journey, I have developed a comprehensive training program that summarizes my knowledge and skills in Python, SQL, and Java. This training covers the essential aspects of these programming and data management languages.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Python: I have delved deep into Python's capabilities, including data analysis, data manipulation, charting, and implementing machine learning algorithms using libraries like Pandas, NumPy, Matplotlib, and Scikit-Learn.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- SQL: I have mastered SQL queries to interact with relational databases, efficiently extracting and processing data for in-depth analyses.
+
+- Java: I have gained strong expertise in Java development, working on software projects and using object-oriented programming concepts to create robust and scalable applications.
+
+This recap training aims to share my knowledge and assist other professionals in gaining a thorough understanding of these languages and their practical applications.
+
+Feel free to reach out to me to learn more about this training or to discuss its details.
+
 
 # Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
