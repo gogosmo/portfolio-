@@ -46,7 +46,7 @@
 
 ![Notebook](image.png)
 ### Creation of a Comprehensive Recap Training in Python, SQL, and Java
-[**Python**](https://github.com/Gogo-IGM-BK/Python-Data) | [**SQL**](https://github.com/Gogo-IGM-BK/SQL)
+[Python](https://github.com/Gogo-IGM-BK/Python-Data) | [SQL](https://github.com/Gogo-IGM-BK/SQL)
 
 Throughout my journey, I have developed a comprehensive training program that summarizes my knowledge and skills in Python, SQL, and Java. This training covers the essential aspects of these programming and data management languages.
 
