@@ -62,7 +62,6 @@ Feel free to reach out to me to learn more about this training or to discuss its
 
 ### UGEOverFlow Project @ Gustave Eiffel University Paris 2023
 
-# UGEOverFlow Project - Gustave Eiffel University Paris 2023 
 
 
 - As part of the UGEOverFlow project at Gustave Eiffel University in 2023, we developed a university alternative to StackOverflow for the University.
