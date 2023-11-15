@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst & Backend Developer
 
 #### Technical Skills: Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel
 
@@ -46,7 +46,7 @@
 
 ![Notebook](image.png)
 ### Creation of a Comprehensive Recap Training in Python, SQL, and Java
-[Python](https://github.com/Gogo-IGM-BK/Python-Data) | [SQL](https://github.com/Gogo-IGM-BK/SQL)
+[Python](https://github.com/Gogo-IGM-BK/Python-Data) | [SQL](https://github.com/Gogo-IGM-BK/SQL) | [Java](https://github.com/gogosmo/Java-Backend)
 
 Throughout my journey, I have developed a comprehensive training program that summarizes my knowledge and skills in Python, SQL, and Java. This training covers the essential aspects of these programming and data management languages.
 
@@ -61,8 +61,6 @@ This recap training aims to share my knowledge and assist other professionals in
 Feel free to reach out to me to learn more about this training or to discuss its details.
 
 
-# Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
 
 
 
