@@ -60,6 +60,23 @@ This recap training aims to share my knowledge and assist other professionals in
 
 Feel free to reach out to me to learn more about this training or to discuss its details.
 
+### UGEOverFlow Project @ Gustave Eiffel University Paris 2023
+
+# UGEOverFlow Project - Gustave Eiffel University Paris 2023 
+
+
+- As part of the UGEOverFlow project at Gustave Eiffel University in 2023, we developed a university alternative to StackOverflow for the University.
+
+- This project involved designing a web application based on the MVC architecture using the Spring framework, with the integration of Spring Data, Spring MVC, and Spring Security modules.
+
+- We implemented Thymeleaf for template management and complemented it with the use of JavaScript and jQuery for client-side dynamics.
+
+- Additionally, we adopted Hibernate as an Object-Relational Mapping (ORM) for optimized interaction with the H2 database, which served for data storage and management.
+
+- The project aimed to address the specific needs of the university by providing a question-and-answer platform tailored to its academic and research requirements.
+
+
+
 
 
 
