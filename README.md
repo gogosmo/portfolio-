@@ -8,7 +8,7 @@
 
 
 ## Work Experience
-**IT Project Manager & Software Developer Intern @ McDonald’s France Services (_December 2021 - September 2023_)**
+**IT Project Manager & Software Developer Traineeship @ McDonald’s France Services (_December 2021 - September 2023_)**
 - Led the implementation of a web-based MVC project tracking and management tool using C# ASP.NET.
 - Oversaw and guided various phases of application development.
 - Designed and developed an architecture focused on project management, tracking, and automation.
