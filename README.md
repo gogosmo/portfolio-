@@ -1,6 +1,6 @@
 # Data Analyst & Backend Developer
 
-#### Technical Skills: Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel
+#### Technical Skills: Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel, MongoDB, Scala, AlteryX, Databricks, Java
 
 ## Education
 - **Master 2 in Software, Data Engineering**  Gustave Eiffel University - Gaspard Monge Institute at Paris (_2021-2023_)
