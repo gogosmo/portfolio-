@@ -3,12 +3,25 @@
 #### Technical Skills: AZ-900, Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel, MongoDB, Scala, AlteryX, Databricks, Java
 
 ## Education
-- **Master 2 in Software, Data Engineering**  Gustave Eiffel University - Gaspard Monge Institute at Paris (_2021-2023_)
-- **Bachelor's Degree in Mathematics and Computer Science**  Gustave Eiffel University - Gaspard Monge Institute at Paris (_2017-2021_)
+- **Master's Degree in Data & IA**  IPSSI - Paris 
+- **Master's Degree in Software, Data Engineering**  Gustave Eiffel University - Gaspard Monge Institute - Paris 
+- **Bachelor's Degree in Mathematics and Computer Science**  Gustave Eiffel University - Gaspard Monge Institute - Paris 
 
 
 ## Work Experience
-**IT Project Manager & Software Developer Traineeship @ McDonald’s France Services (_December 2021 - September 2023_)**
+
+**Business & Data Analyst - Sustainability @ OPmobility (formerly Plastic Omnium), Paris (January 2024 - Present)**
+
+- Conducted business needs analysis and translated them into appropriate data solutions through the drafting of technical and functional specifications.
+- Automated reporting using BI tools (e.g., Power BI) and data workflows.
+- Performed data analysis and engineering using ETL tools, Azure Data Factory, Databricks, SQL, Python, and Kafka.
+- Implemented data governance and fostered a data culture within the organization.
+- Conducted data cleaning and data analysis to ensure data quality and accuracy.
+- Managed data warehousing using SAP and Enablon.
+- Standardized reporting to comply with CSRD regulations.
+- Analyzed environmental data, including CO₂ emissions and carbon footprint.
+
+**IT Project Manager & Software Developer @ McDonald’s France Services (_December 2021 - September 2023_)**
 - Led the implementation of a web-based MVC project tracking and management tool using C# ASP.NET.
 - Oversaw and guided various phases of application development.
 - Designed and developed an architecture focused on project management, tracking, and automation.
