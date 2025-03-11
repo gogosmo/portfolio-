@@ -1,6 +1,6 @@
 # Data Analyst & Backend Developer
 
-#### Technical Skills: AZ-900, Python, SQL, Microsoft SQL Server, Power BI, Spark, Hadoop, Excel, MongoDB, Scala, AlteryX, Databricks, Java
+#### Technical Skills: AZ-900, Python, SQL, Power BI, Azure Data Factory, Spark, Hadoop, Kafka, Excel, MongoDB, Scala, AlteryX, Databricks, Java, Jira
 
 ## Education
 - **Master's Degree in Data & IA**  IPSSI - Paris 
@@ -29,7 +29,7 @@
 - Established a project timeline and allocated resources to meet deadlines.
 - Contributed to technical development, including database structuring and the creation of the C# ASP.NET MVC web application.
 - Managed project versions using TFS within a Microsoft Visual Studio environment.
-- Utilized a technology stack including C#, jQgrid, jQuery, ASP.NET, Trello, CSS, and HTML.
+- Utilized a technology stack including C#, jQgrid, jQuery, ASP.NET, Trello, Jira.
 
 **Data Analyst Intern @ Iziwork (_June 2021 - September 2021_)**
 
@@ -57,7 +57,6 @@
 - Trained machine learning algorithms on this data, followed by a detailed visualization of the obtained results.
 
 
-![Notebook](image.png)
 ### Creation of a Comprehensive Recap Training in Python, SQL, and Java
 [Python](https://github.com/Gogo-IGM-BK/Python-Data) | [SQL](https://github.com/Gogo-IGM-BK/SQL) | [Java](https://github.com/gogosmo/Java-Backend)
 
