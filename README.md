@@ -1,6 +1,9 @@
-# Data Analyst & Backend Developer
+# **Data Engineer / Data Analyst – IA Expert**
 
-#### Technical Skills: AZ-900, Python, SQL, Power BI, Azure Data Factory, Spark, Hadoop, Kafka, Excel, MongoDB, Scala, AlteryX, Databricks, Java, Jira
+### **Technical Skills**
+- **Data Platforms & Tools** : Dataiku(Certified), Power BI, Tableau, Azure Data Factory, Databricks  
+- **Programming & Big Data** : Python, SQL, Scala, Java, Spark, Hadoop, Kafka, MongoDB  
+- **Project & Collaboration** : Jira
 
 ## Education
 - **Master's Degree in Data & IA**  IPSSI - Paris 
@@ -10,7 +13,17 @@
 
 ## Work Experience
 
-**Business & Data Analyst - Sustainability @ OPmobility (formerly Plastic Omnium), Paris (January 2024 - Present)**
+**Data Engineer / Data Analyst – IA Expert @ BNP Paribas, Group Control Tower ITG Production, Paris**
+
+- Designed and implemented **data pipelines** to feed strategic **ITG production dashboards**.  
+- Developed and maintained **ETL workflows** to ensure efficient and reliable data integration.  
+- Conducted **data analysis** to identify operational issues and support decision-making.  
+- Led an **AI project focused on clustering** to optimize production monitoring and forecasting.  
+- Implemented **data governance** practices to improve data management and compliance.  
+- Ensured **data quality and consistency** across multiple sources and reporting layers.  
+- Collaborated with cross-functional teams to align data strategy with business objectives.
+
+**Business & Data Analyst - Sustainability @ OPmobility (formerly Plastic Omnium), Paris**
 
 - Conducted business needs analysis and translated them into appropriate data solutions through the drafting of technical and functional specifications.
 - Automated reporting using BI tools (e.g., Power BI) and data workflows.
@@ -21,7 +34,7 @@
 - Standardized reporting to comply with CSRD regulations.
 - Analyzed environmental data, including CO₂ emissions and carbon footprint.
 
-**IT Project Manager & Software Developer @ McDonald’s France Services (_December 2021 - September 2023_)**
+**IT Project Manager & Software Developer @ McDonald’s France Services, Paris**
 - Led the implementation of a web-based MVC project tracking and management tool using C# ASP.NET.
 - Oversaw and guided various phases of application development.
 - Designed and developed an architecture focused on project management, tracking, and automation.
@@ -31,7 +44,7 @@
 - Managed project versions using TFS within a Microsoft Visual Studio environment.
 - Utilized a technology stack including C#, jQgrid, jQuery, ASP.NET, Trello, Jira.
 
-**Data Analyst Intern @ Iziwork (_June 2021 - September 2021_)**
+**Data Analyst Intern @ Iziwork, Paris**
 
 - Managed ETL (Extract, Transform, Load) processes and performed data analysis within a NoSQL database.
 - Conducted a feasibility study on integrating a variable into a matching formula within a machine learning model.
@@ -49,7 +62,7 @@
 **Technical Environment**: DOCKER, PYTHON, MONGODB, JUPYTER NOTEBOOK, VISUAL STUDIO CODE, TRAVELTIME API, GOOGLE API, GITHUB, JIRA
 
 ## Projects
-### ETL Project @ Gustave Eiffel University Paris 2023
+### ETL Project @ Gustave Eiffel University Paris 
 [Link to the databricks notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4475201351668581/4017966511050725/7429548704676706/latest.html)
 
 - Conducted an in-depth study of data related to medications available on the French market.
@@ -72,9 +85,8 @@ This recap training aims to share my knowledge and assist other professionals in
 
 Feel free to reach out to me to learn more about this training or to discuss its details.
 
-### UGEOverFlow Project @ Gustave Eiffel University Paris 2023
 
-
+### UGEOverFlow Project @ Gustave Eiffel University Paris
 
 - As part of the UGEOverFlow project at Gustave Eiffel University in 2023, we developed a university alternative to StackOverflow for the University.
 
